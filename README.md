@@ -53,6 +53,7 @@
   - [ntplayer](https://ntplayer.nilbt.com/) IOS/ipad 免费版就很好用，无数量限制
   - [aptv](https://github.com/Kimentanm/aptv) IOS/ipad/Mac 免费版只能添加1个播放源
   - [IPTVnator](https://github.com/4gray/iptvnator) 跨平台IPTV播放器应用，适用于Windows、macOS和Linux系统。
+  - [Free IPTV Player](https://freeiptvplayer.net/iptv-player/) 浏览器在线M3U播放器，输入URL或上传文件即可播放，无需安装。
 
 ## 播放源预览
 ![央视播放源预览](https://github.com/user-attachments/assets/1acbf06e-982a-4b6d-bfbd-200affb32821)
